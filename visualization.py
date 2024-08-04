@@ -3,7 +3,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import json
 
-
+print("hello world")
 def state_to_color(state):
     if state == 'Waiting':
         return 'Green'
